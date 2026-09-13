@@ -1,0 +1,3185 @@
+{
+  "message_02": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_03": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_04": {
+    "salary_override": {
+      "amount": 1037.52,
+      "currency": "EUR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_06": {
+    "salary_override": {
+      "amount": 1422.85,
+      "currency": "EUR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_07": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_08": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 38760000.0,
+        "currency": "IDR",
+        "expected_date": null
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_11": {
+    "salary_override": {
+      "amount": 1661.0,
+      "currency": "EUR",
+      "effective_date": "2026-01-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 1661.0,
+        "currency": "EUR",
+        "expected_date": "2026-01-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_12": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 12.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_13": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_14": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_15": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_16": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_01": {
+    "salary_override": {
+      "amount": 42750000.0,
+      "currency": "IDR",
+      "effective_date": "2025-08-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": "2025-08-15",
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_05": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": "2024-09-23",
+    "confirmed_income": [
+      {
+        "amount": 0.0,
+        "currency": "USD",
+        "expected_date": "2024-09-23"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_09": {
+    "salary_override": null,
+    "salary_ended": true,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_10": {
+    "salary_override": {
+      "amount": 2717.0,
+      "currency": "EUR",
+      "effective_date": "2025-08-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_18": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 30780000.0,
+        "currency": "IDR",
+        "expected_date": "2025-08-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_19": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": {
+      "amount": null,
+      "currency": null
+    },
+    "new_deductions": []
+  },
+  "message_20": {
+    "salary_override": {
+      "amount": 1452.0,
+      "currency": "EUR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 653.4,
+      "currency": "EUR"
+    },
+    "new_deductions": []
+  },
+  "message_21": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": true,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_22": {
+    "salary_override": {
+      "amount": 54120.0,
+      "currency": "ZAR",
+      "effective_date": "2025-02-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": "2025-02-15",
+    "confirmed_income": [
+      {
+        "amount": 54120.0,
+        "currency": "ZAR",
+        "expected_date": "2025-02-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_23": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_24": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 196000.0,
+        "currency": "INR",
+        "expected_date": "2024-12-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_25": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_26": {
+    "salary_override": {
+      "amount": 2988.0,
+      "currency": "USD",
+      "effective_date": "2026-07-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_27": {
+    "salary_override": {
+      "amount": 21090000,
+      "currency": "IDR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 9490500,
+      "currency": "IDR"
+    },
+    "new_deductions": []
+  },
+  "message_28": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_29": {
+    "salary_override": {
+      "amount": 1760.0,
+      "currency": "EUR",
+      "effective_date": "2024-06-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 1760.0,
+        "currency": "EUR",
+        "expected_date": "2024-06-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_30": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 148000.0,
+        "currency": "INR",
+        "expected_date": null
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_31": {
+    "amount": 32870000,
+    "currency": "IDR",
+    "effective_date": "2024-09-15"
+  },
+  "message_32": {
+    "salary_override": {
+      "amount": 115000.0,
+      "currency": "INR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 115000.0,
+        "currency": "INR",
+        "expected_date": "2025-02-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_33": {
+    "salary_override": {
+      "amount": 17290000.0,
+      "currency": "IDR",
+      "effective_date": "2026-07-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": "2026-07-15",
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_34": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_35": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_36": {
+    "salary_override": {
+      "amount": 31464000,
+      "currency": "IDR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_38": {
+    "salary_override": {
+      "amount": 69000.0,
+      "currency": "INR",
+      "effective_date": "2024-06-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 69000.0,
+        "currency": "INR",
+        "expected_date": "2024-06-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_39": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_40": {
+    "salary_override": {
+      "amount": 42460,
+      "currency": "ZAR",
+      "effective_date": "2026-07-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": "2026-07-15",
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_41": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_42": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 25840000.0,
+        "currency": "IDR",
+        "expected_date": null
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_43": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_44": {
+    "salary_override": {
+      "amount": 530.4,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_45": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": "YYYY-MM-DD"
+    },
+    "salary_ended": true,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_47": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_48": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_49": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 116000.0,
+        "currency": "INR",
+        "expected_date": "2026-04-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_50": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": "2025-02-23",
+    "confirmed_income": [
+      {
+        "amount": 0.0,
+        "currency": "USD",
+        "expected_date": "2025-02-23"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_51": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.12,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_52": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_53": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 696.0,
+        "currency": "USD",
+        "expected_date": "2025-05-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_54": {
+    "amount": 18700.0,
+    "currency": "ZAR",
+    "effective_date": "2026-07-15"
+  },
+  "message_55": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 12.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_56": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 26180.0,
+        "currency": "ZAR",
+        "expected_date": "2025-08-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_57": {
+    "salary_override": null,
+    "salary_ended": true,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_58": {
+    "salary_override": {
+      "amount": 3072.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 3072.0,
+        "currency": "USD",
+        "expected_date": null
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_59": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_61": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 12.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_62": {
+    "salary_override": {
+      "amount": 1752.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 788.4,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_63": {
+    "salary_override": {
+      "amount": 62000.0,
+      "currency": "INR",
+      "effective_date": "2025-05-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": "2025-05-15",
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "INR"
+    },
+    "new_deductions": []
+  },
+  "message_64": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_65": {
+    "salary_override": {
+      "amount": 8618400.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_67": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_68": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 13420.0,
+        "currency": "ZAR",
+        "expected_date": "2026-07-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_69": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_70": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 49280.0,
+        "currency": "ZAR",
+        "expected_date": null
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_71": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_72": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 924.0,
+        "currency": "EUR",
+        "expected_date": "2024-12-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_73": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": "2025-05-23",
+    "confirmed_income": [
+      {
+        "amount": 0.0,
+        "currency": "USD",
+        "expected_date": "2025-05-23"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_75": {
+    "amount": 0.0,
+    "currency": "USD",
+    "effective_date": null
+  },
+  "message_76": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 1419.0,
+        "currency": "EUR",
+        "expected_date": "2026-04-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_77": {
+    "salary_override": {
+      "amount": 164880.0,
+      "currency": "INR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_78": {
+    "salary_override": {
+      "amount": 35860.0,
+      "currency": "ZAR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_79": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_80": {
+    "salary_override": {
+      "amount": 1815.0,
+      "currency": "EUR",
+      "effective_date": "2024-12-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 1815.0,
+        "currency": "EUR",
+        "expected_date": "2024-12-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_81": {
+    "salary_override": {
+      "amount": 2123.0,
+      "currency": "EUR",
+      "effective_date": "2025-05-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": "2025-05-15",
+    "confirmed_income": [
+      {
+        "amount": 2123.0,
+        "currency": "EUR",
+        "expected_date": "2025-05-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_82": {
+    "salary_override": {
+      "amount": 33440.0,
+      "currency": "ZAR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_83": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 16720.0,
+        "currency": "ZAR",
+        "expected_date": "2025-08-15"
+      }
+    ],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_84": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": true,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_86": {
+    "salary_override": {
+      "amount": 1296.0,
+      "currency": "USD",
+      "effective_date": "2026-09-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 1296.0,
+        "currency": "USD",
+        "expected_date": "2026-09-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_87": {
+    "salary_override": {
+      "amount": 148200.0,
+      "currency": "INR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_89": {
+    "salary_override": {
+      "amount": 1188.0,
+      "currency": "EUR",
+      "effective_date": "2026-07-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_90": {
+    "salary_override": {
+      "amount": 759.0,
+      "currency": "EUR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 341.55,
+      "currency": "EUR"
+    },
+    "new_deductions": []
+  },
+  "message_93": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 15390000.0,
+        "currency": "IDR",
+        "expected_date": "2025-08-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_94": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_95": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 748.0,
+        "currency": "EUR",
+        "expected_date": "2025-11-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_96": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 152000.0,
+        "currency": "INR",
+        "expected_date": "2026-07-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_97": {
+    "salary_override": {
+      "amount": 50160.0,
+      "currency": "ZAR",
+      "effective_date": "2024-09-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": "2024-09-15",
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_98": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_99": {
+    "salary_override": {
+      "amount": null,
+      "currency": null,
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": null,
+        "currency": null,
+        "expected_date": null
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": null,
+      "currency": null
+    },
+    "new_deductions": []
+  },
+  "message_46": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 2112.0,
+        "currency": "USD",
+        "expected_date": "2025-08-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_74": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 1804.0,
+        "currency": "EUR",
+        "expected_date": "2025-08-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_91": {
+    "salary_override": {
+      "amount": 176000.0,
+      "currency": "INR",
+      "effective_date": "2025-05-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_100": {
+    "salary_override": {
+      "amount": 2177.28,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_101": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": "2025-05-23",
+    "confirmed_income": [
+      {
+        "amount": 0.0,
+        "currency": "USD",
+        "expected_date": "2025-05-23"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_102": {
+    "salary_override": {
+      "amount": 1193.4,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_103": {
+    "salary_override": null,
+    "salary_ended": true,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_104": {
+    "salary_override": {
+      "amount": 828.0,
+      "currency": "USD",
+      "effective_date": "2026-07-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_105": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.12,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_106": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_107": {
+    "salary_override": {
+      "amount": 31900.0,
+      "currency": "ZAR",
+      "effective_date": "2025-02-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 31900.0,
+        "currency": "ZAR",
+        "expected_date": "2025-02-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_109": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 2040.0,
+        "currency": "USD",
+        "expected_date": "2024-12-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_110": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 0.0,
+        "currency": "USD",
+        "expected_date": null
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_111": {
+    "salary_override": {
+      "amount": 864.0,
+      "currency": "USD",
+      "effective_date": "2026-07-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 864.0,
+        "currency": "USD",
+        "expected_date": "2026-07-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_114": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_115": {
+    "salary_override": {
+      "amount": 893.75,
+      "currency": "EUR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_116": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 46170000.0,
+        "currency": "IDR",
+        "expected_date": "2024-09-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_117": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_118": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_119": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 1628.0,
+        "currency": "EUR",
+        "expected_date": null
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_121": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_122": {
+    "salary_override": {
+      "amount": 23940000.0,
+      "currency": "IDR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_123": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_124": {
+    "salary_override": {
+      "amount": 1672.0,
+      "currency": "EUR",
+      "effective_date": "2024-06-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 1672.0,
+        "currency": "EUR",
+        "expected_date": "2024-06-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_125": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 26790000.0,
+        "currency": "IDR",
+        "expected_date": "2025-11-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_126": {
+    "salary_override": {
+      "amount": 29070000.0,
+      "currency": "IDR",
+      "effective_date": "2026-07-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_129": {
+    "salary_override": null,
+    "salary_ended": true,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_130": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 2340.0,
+        "currency": "USD",
+        "expected_date": "2024-12-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_131": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": "2025-05-23",
+    "confirmed_income": [
+      {
+        "amount": 0.0,
+        "currency": "USD",
+        "expected_date": "2025-05-23"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_132": {
+    "salary_override": {
+      "amount": 137150.0,
+      "currency": "INR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_133": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_134": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_135": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_136": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_137": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 1284.0,
+        "currency": "USD",
+        "expected_date": "2025-11-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_138": {
+    "salary_override": {
+      "amount": 1924.56,
+      "currency": "EUR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 1924.56,
+        "currency": "EUR",
+        "expected_date": null
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_139": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 847.0,
+        "currency": "EUR",
+        "expected_date": null
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_140": {
+    "salary_override": {
+      "amount": 1731.6,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_141": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 2376.0,
+        "currency": "EUR",
+        "expected_date": "2024-12-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_142": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_143": {
+    "amount": 59000.0,
+    "currency": "INR",
+    "effective_date": "2026-07-15"
+  },
+  "message_144": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_145": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_146": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_147": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 12.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_148": {
+    "salary_override": {
+      "amount": 31889.0,
+      "currency": "ZAR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_150": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_151": {
+    "salary_override": {
+      "amount": 627.0,
+      "currency": "EUR",
+      "effective_date": "2026-07-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": "2026-07-15",
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_152": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_153": {
+    "salary_override": {
+      "amount": 1750.32,
+      "currency": "EUR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 1750.32,
+        "currency": "EUR",
+        "expected_date": null
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_154": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": "2025-08-23",
+    "confirmed_income": [
+      {
+        "amount": 0.0,
+        "currency": "USD",
+        "expected_date": "2025-08-23"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_155": {
+    "salary_override": {
+      "amount": 1222.65,
+      "currency": "EUR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_157": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_158": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_159": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_160": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": true,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_161": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_163": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_164": {
+    "salary_override": {
+      "amount": null,
+      "currency": null,
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": {
+      "amount": null,
+      "currency": null
+    },
+    "new_deductions": []
+  },
+  "message_165": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": "2025-02-23"
+    },
+    "salary_ended": false,
+    "salary_date_override": "2025-02-23",
+    "confirmed_income": [
+      {
+        "amount": 0.0,
+        "currency": "USD",
+        "expected_date": "2025-02-23"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_166": {
+    "salary_override": null,
+    "salary_ended": true,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_167": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_168": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_169": {
+    "salary_override": {
+      "amount": 2424.0,
+      "currency": "USD",
+      "effective_date": "2026-07-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_170": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_171": {
+    "salary_override": {
+      "amount": 1346.4,
+      "currency": "EUR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_172": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_173": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 35200.0,
+        "currency": "ZAR",
+        "expected_date": "2026-01-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_174": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_175": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 12.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_176": {
+    "salary_override": {
+      "amount": 260000.0,
+      "currency": "INR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 117000.0,
+      "currency": "INR"
+    },
+    "new_deductions": []
+  },
+  "message_37": {
+    "amount": 126000.0,
+    "currency": "INR",
+    "expected_date": null
+  },
+  "message_60": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 158000.0,
+        "currency": "INR",
+        "expected_date": null
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_85": {
+    "salary_override": {
+      "amount": 627.0,
+      "currency": "EUR",
+      "effective_date": "2024-06-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 627.0,
+        "currency": "EUR",
+        "expected_date": "2024-06-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_92": {
+    "salary_override": {
+      "amount": null,
+      "currency": null,
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": null,
+        "currency": null,
+        "expected_date": null
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": null,
+      "currency": null
+    },
+    "new_deductions": []
+  },
+  "message_108": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_113": {
+    "salary_override": {
+      "amount": 1529.0,
+      "currency": "EUR",
+      "effective_date": "2026-04-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": "2026-04-15",
+    "confirmed_income": [
+      {
+        "amount": 1529.0,
+        "currency": "EUR",
+        "expected_date": "2026-04-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_88": {
+    "amount": null,
+    "currency": null,
+    "effective_date": null
+  },
+  "message_120": {
+    "salary_override": {
+      "amount": 84000.0,
+      "currency": "INR",
+      "effective_date": "2025-05-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": "2025-05-15",
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_128": {
+    "salary_override": {
+      "amount": 44270000,
+      "currency": "IDR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_177": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_178": {
+    "salary_override": {
+      "amount": 30400000,
+      "currency": "IDR",
+      "effective_date": "2026-04-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 30400000,
+        "currency": "IDR",
+        "expected_date": "2026-04-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "IDR"
+    },
+    "new_deductions": []
+  },
+  "message_179": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_182": {
+    "amount": 16910000.0,
+    "currency": "IDR",
+    "effective_date": "2025-11-15"
+  },
+  "message_183": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_184": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_185": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_186": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": true,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_187": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": true,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 912.0,
+        "currency": "USD",
+        "expected_date": null
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_188": {
+    "salary_override": {
+      "amount": 62000.0,
+      "currency": "INR",
+      "effective_date": "2026-01-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": "2026-01-15",
+    "confirmed_income": [
+      {
+        "amount": 62000.0,
+        "currency": "INR",
+        "expected_date": "2026-01-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_189": {
+    "salary_override": null,
+    "salary_ended": true,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_190": {
+    "amount": 0.0,
+    "currency": "USD",
+    "effective_date": null
+  },
+  "message_191": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 1680.0,
+        "currency": "USD",
+        "expected_date": "2025-11-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_192": {
+    "salary_override": null,
+    "salary_ended": true,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_193": {
+    "salary_override": {
+      "amount": 1528.56,
+      "currency": "EUR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 1528.56,
+        "currency": "EUR",
+        "expected_date": null
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_194": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 1548.0,
+        "currency": "USD",
+        "expected_date": null
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_195": {
+    "salary_override": {
+      "amount": 702.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_196": {
+    "amount": 53680.0,
+    "currency": "ZAR",
+    "expected_date": "2024-12-15"
+  },
+  "message_112": {
+    "salary_override": {
+      "amount": 258000.0,
+      "currency": "INR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 116100.0,
+      "currency": "INR"
+    },
+    "new_deductions": []
+  },
+  "message_156": {
+    "amount": 38190000,
+    "currency": "IDR",
+    "effective_date": "2025-11-15"
+  },
+  "message_197": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_198": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_199": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_200": {
+    "salary_override": {
+      "amount": 214000,
+      "currency": "INR",
+      "effective_date": "2024-06-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 214000,
+        "currency": "INR",
+        "expected_date": "2024-06-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_201": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_202": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_203": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 48260000,
+        "currency": "IDR",
+        "expected_date": null
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_205": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_206": {
+    "salary_override": null,
+    "salary_ended": true,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_207": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_208": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_209": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_211": {
+    "salary_override": {
+      "amount": 103000.0,
+      "currency": "INR",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 103000.0,
+        "currency": "INR",
+        "expected_date": null
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 46350.0,
+      "currency": "INR"
+    },
+    "new_deductions": []
+  },
+  "message_212": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_213": {
+    "salary_override": null,
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": null,
+    "arrears": null,
+    "new_deductions": []
+  },
+  "message_214": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_215": {
+    "salary_override": {
+      "amount": 0.0,
+      "currency": "USD",
+      "effective_date": null
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_162": {
+    "amount": 2024.0,
+    "currency": "EUR",
+    "effective_date": null
+  },
+  "message_180": {
+    "amount": 0.0,
+    "currency": "USD",
+    "effective_date": null
+  },
+  "message_181": {
+    "salary_override": {
+      "amount": 2772.0,
+      "currency": "EUR",
+      "effective_date": "2024-06-15"
+    },
+    "salary_ended": false,
+    "salary_date_override": null,
+    "confirmed_income": [
+      {
+        "amount": 2772.0,
+        "currency": "EUR",
+        "expected_date": "2024-06-15"
+      }
+    ],
+    "rent_increase_pct": 0.0,
+    "arrears": {
+      "amount": 0.0,
+      "currency": "USD"
+    },
+    "new_deductions": []
+  },
+  "message_149": {
+    "amount": 145000.0,
+    "currency": "INR",
+    "effective_date": "2024-09-15"
+  }
+}

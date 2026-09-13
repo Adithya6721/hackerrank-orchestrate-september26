@@ -1,0 +1,82 @@
+{
+  "image_01": {
+    "financial_amount": 4365000.0,
+    "currency": "IDR",
+    "document_type": "payslip"
+  },
+  "image_02": {
+    "financial_amount": 200000.0,
+    "currency": "INR",
+    "document_type": "receipt"
+  },
+  "image_03": {
+    "financial_amount": 41272.0,
+    "currency": "INR",
+    "document_type": "receipt"
+  },
+  "image_04": {
+    "financial_amount": 2854.0,
+    "currency": "INR",
+    "document_type": "receipt"
+  },
+  "image_05": {
+    "financial_amount": 704.05,
+    "currency": "INR",
+    "document_type": "invoice"
+  },
+  "image_06": {
+    "financial_amount": 1995.0,
+    "currency": "INR",
+    "document_type": "invoice"
+  },
+  "image_07": {
+    "financial_amount": 8528.1,
+    "currency": "INR",
+    "document_type": "invoice"
+  },
+  "image_08": {
+    "financial_amount": 15339.0,
+    "currency": "INR",
+    "document_type": "receipt"
+  },
+  "image_09": {
+    "financial_amount": 723.0,
+    "currency": "INR",
+    "document_type": "receipt"
+  },
+  "image_10": {
+    "financial_amount": 79679.26,
+    "currency": "INR",
+    "document_type": "invoice"
+  },
+  "image_11": {
+    "financial_amount": 3650.0,
+    "currency": "INR",
+    "document_type": "invoice"
+  },
+  "image_12": {
+    "financial_amount": 33.5,
+    "currency": "USD",
+    "document_type": "receipt"
+  },
+  "image_13": {
+    "financial_amount": 2298.0,
+    "currency": "INR",
+    "document_type": "receipt"
+  },
+  "image_14": {
+    "financial_amount": 4543.0,
+    "currency": "INR",
+    "document_type": "invoice"
+  },
+  "image_15": {
+    "financial_amount": 9968.0,
+    "currency": "INR",
+    "document_type": "invoice"
+  },
+  "image_16": {
+    "financial_amount": 393.22,
+    "currency": "INR",
+    "document_type": "invoice"
+  }
+}
